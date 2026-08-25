@@ -87,6 +87,24 @@ Beberapa game support online lewat OnlineFix DLL. Pake parameter `-onlinefix` di
 **Ko gamuncul gamenya di library steam**  
 Kemungkinan steampath salah dan juga core belum terinstall di tab settings.
 
+## Disclaimer
+
+VCore adalah tool untuk tujuan edukasi dan riset.
+
+- **Game dengan DRM ketat** (Denuvo, Arxan, atau sejenisnya) **tidak bisa dimainkan** lewat VCore
+- **Game yang butuh akun pihak ketiga** (EA, Ubisoft, Epic, Rockstar, Blizzard) tetap perlu akun dan launcher resmi dari masing-masing platform
+- **Fix files** di tab Fixes adalah modifikasi dari pihak ketiga yang dikumpulkan dari sumber publik — VCore tidak membuat atau memodifikasi file tersebut
+
+Berikut contoh game dengan denuvo dan akun pehik ketiga EA.
+
+<div align="center">
+  <a href="https://files.catbox.moe/llhos3.png" target="_blank">
+    <img src="https://files.catbox.moe/llhos3.png" alt="VCore Client" width="800">
+  </a>
+</div>
+
+<div align="center"><a href="https://files.catbox.moe/uo9gbf.png" target="_blank">Full Screenshot</a></div>
+
 ## Lisensi
 
 Proyek ini untuk tujuan edukasi dan riset semata.
