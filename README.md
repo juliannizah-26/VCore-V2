@@ -76,7 +76,7 @@ Setelah reset: HWID lama dilepas, **semua sesi & device lama dihapus** (perangka
 Tidak. VCore cuma nambah entry ke library Steam. Steam sendiri gak diubah.
 
 **Apakah ini aman?**  
-VCore gak mendownload atau mendistribusikan file game bajakan. Game di-download langsung dari server Steam.
+VCore tidak membuat crack atau modifikasi file game. Game di-download langsung dari server Steam. Fix files yang tersedia merupakan modifikasi pihak ketiga dari sumber publik.
 
 **Apakah harus download ulang kalo update?**  
 Tidak. Update ditangani otomatis oleh Steam, sama kayak game yang dibeli.
