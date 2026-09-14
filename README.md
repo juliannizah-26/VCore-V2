@@ -15,7 +15,7 @@
 
 [![Download](https://img.shields.io/github/v/release/juliannizah-26/VCore?label=Download%20Terbaru)](https://github.com/juliannizah-26/VCore/releases/latest)
 
-Download `VCore-Client.zip` dari halaman [Releases](https://github.com/juliannizah-26/VCore/releases).
+Download dari halaman [Releases](https://github.com/juliannizah-26/VCore/releases).
 
 ## Disclaimer
 
