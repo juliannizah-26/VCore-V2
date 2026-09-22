@@ -5,7 +5,7 @@
 
 ## Fitur
 
-- **Inject** 60.000+ game, apps, tools, DLC, demo langsung ke library Steam
+- **Inject** 70.000+ game, apps, tools, DLC, demo langsung ke library Steam
 - **Download dari server Steam** — gak perlu download dari hosting pihak ketiga
 - **Update otomatis** lewat Steam — dapet patch terbaru kayak game asli
 - **Fixes catalog** — cari & download fix
